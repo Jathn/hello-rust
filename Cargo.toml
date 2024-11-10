@@ -5,6 +5,6 @@ edition = "2021"
 description = "A Library for learning the ins and outs of rust"
 readme = "README.md"
 license = "MIT-License"
-license-file = "LICENSE.md"
+license-file = "LICENSE"
 
 [dependencies]
