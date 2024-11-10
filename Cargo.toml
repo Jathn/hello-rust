@@ -1,5 +1,5 @@
 [package]
-name = "hello-world"
+name = "hello-rust-by-jathn"
 version = "0.1.0"
 edition = "2021"
 description = "A Library for learning the ins and outs of rust"
