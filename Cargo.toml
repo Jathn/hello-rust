@@ -6,5 +6,6 @@ description = "A Library for learning the ins and outs of rust"
 readme = "README.md"
 license = "MIT-License"
 license-file = "LICENSE"
+repository = "https://github.com/Jathn/hello-rust"
 
 [dependencies]
