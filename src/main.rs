@@ -1,4 +1,8 @@
 /**
+ * File: main.rs
+ */
+
+/**
  * # hello_rust
  * 
  * *Function that returns a greeting message.*
