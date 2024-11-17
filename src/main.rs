@@ -1,7 +1,7 @@
 /**
  * File: main.rs
  */
-
+mod customtypes;
 /**
  * # hello_rust
  * 
