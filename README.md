@@ -1,8 +1,8 @@
 # Learning Rust
 
 A repository for learning and experimenting with the Rust programming language. 
-This project contains examples and thinkering to the Rust's fundamentals from the ground and potentially moving to
-the more interesting aspects like memory handling and concurrency.
+
+This repository is my personal f around and find out for the rust programming language.
 
 ## To use
 
